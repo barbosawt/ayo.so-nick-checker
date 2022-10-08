@@ -4,7 +4,7 @@
 A script that tells you if your nick is available on the ayo.so platform.
 ## Download and Usage 💻 
 
-![github-small]([https://i.imgur.com/uTTAXfa.png](https://cdn.discordapp.com/attachments/872069907892805682/1028270992696549386/Screenshot_1.png))
+![github-small]([https://imgur.com/a/gGjzSo4))
 
 
 - Download `git clone https://github.com/yuriwithdaggers/ayo.so-nick-checker`
