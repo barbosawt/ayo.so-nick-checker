@@ -7,7 +7,7 @@ Um script que informa se seu nick está disponível na plataforma ayo.so.
 ![github-small](https://imgur.com/a/gGjzSo4)
 
 
-- Baixe git clone https://github.com/yuriwithdaggers/ayo.so-nick-checker`
+- Baixe git clone `https://github.com/barbosawt/ayo.so-nick-checker`
 
 - Preencha o arquivo "nicks.txt" com os nicks que deseja verificar. ☁️
 
