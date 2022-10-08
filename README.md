@@ -4,6 +4,7 @@
 Um script que informa se seu nick está disponível na plataforma ayo.so.
 ## Baixe e Use 💻
 
+
 ![github-small](https://imgur.com/a/gGjzSo4)
 
 
